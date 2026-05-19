@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/neon-dilbar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Neon Dilbar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-dilbar/) |
+| **Get License** | [Official Music Licensing for Neon Dilbar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-dilbar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਤੇਰੀਆਂ ਅੱਖਾਂ ਦਾ ਨਸ਼ਾ ਹੈ so addictive
+> ਮੈਂ ਤੱਕਦਾ ਹਾਂ ਤੈਨੂੰ looking so attractive
+> ਹਨੇਰੀ ਰਾਤ ਵਿੱਚ ਤੇਰੀ ਲਿਸ਼ਕ drive me crazy
+> ਮੈਂ ਮੰਗਦਾ ਹਾਂ ਤੇਰਾ ਸਾਥ be my baby
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | May 19, 2026 |
+| **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
