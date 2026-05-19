@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Neon Dilbar
+
+This log tracks the cryptographic history and versioning for the song **Neon Dilbar** (neon-dilbar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T00:08:20.920533 | `v1` | `ecc2c55494d284d087a0bbd2d451f5d67ee0d1be747c40f8422e6c9790d9187e` | `a3727388e3a983c8bd7a258e389887a8ad4912a78ed051de4c01599cef3e9f60` | `2026-05-20_neon-dilbar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
